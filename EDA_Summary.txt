@@ -1,0 +1,20 @@
+Summary of Exploratory Data Analysis (EDA) and Linear Regression on Insurance Dataset
+
+Exploratory Data Analysis (EDA):
+Load the Data: Loaded the dataset from an Excel file named "Insurance.csv". Displayed the first few rows to understand the structure of the dataset.
+
+Understand the Data Structure: The Insurance Data Dashboard provides a comprehensive analysis of insurance data. The dataset consists of 7 colummns such as age, sex, BMI, number of children, smoker status, region, and charges and 1338 rows.
+
+Checked data types and missing values: Most columns are of type Whole number,Text and decimal. Created a new columns like "Age group ,Index and BMI and chnaged there datatype and there is no missing values.
+
+Created a dashboard:
+Used Pie chart or Stacked column chart categorizing  average of charges , Count of customers by age groups, (Young Adult, Adult, Senior Citizen), and  used stacked bar chart categorizing count of customers by children.
+
+Insightes:
+Smoker Status:
+Donut chart showing the count of smokers and non-smokers.
+Pie  chart showing the count of smokers by sex.
+
+BMI Distribution:
+Pie chart showing the distribution of BMI.
+Pie chart showing the Count of people by BMI categories.
