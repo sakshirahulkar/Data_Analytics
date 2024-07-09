@@ -79,7 +79,7 @@ Donut charts for -
 - Stacked column chart representing by Acct_balance.
 - Line chart showing Count of Churn status by tenure.
 
-Insights :-
+# Insights :-
 - There are 10,000 no of customers and customers we lost are 2037 that is 20.4% Churn Rate. We have most of the customers whos age is between 31-40.
 - Female Churn Rate is more than Male Customers.
 - Most Customers are from France and most Churn Rate is from Germany.
@@ -87,7 +87,7 @@ Insights :-
 - It is found that there are total of 69.17% customers who holds only 1 product and which are Churned.
 - There are 70.55% of customers who owns Credit Card out of which 36.07% of customers are active and 34.48 % customers are inactive.  29.45% of customers who doesn't owns a credit card out of which 15.44% customers are active and 14.01% customers are inactive.
 
-Conclusion :-
+# Conclusion :-
 - churn rate helps establish targets for improvement and track progress over time.
 - Develop targeted retention strategies for age groups with higher churn rates, such as tailored communication and product offerings.
 - Customize marketing and customer service efforts to address the specific concerns and preferences of each gender.
