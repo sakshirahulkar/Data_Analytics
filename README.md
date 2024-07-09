@@ -9,19 +9,33 @@ Inside the dataset, there are 10000 rows and 14 different columns.
 
 Variable	Definition
 RowNumber -	Unique Row Number
+
 CustomerId -	Unique Customer Id
+
 Surname -	Surname of a customer
+
 CreditScore -	Credit Score of each Customer
+
 Geography -	Geographical Location of Customers
+
 City_Category -	Category of the City (A,B,C)
+
 Gender -	Sex of Customers
+
 Age -	Age of Each Customer
+
 Tenure -	Number of years
+
 Balance -	Current Balance of Customers
+
 NumOfProducts -	Number of Products
+
 HasCrCard -	If a customer has a credit card or not
+
 IsActiveMember -	If a customer is active or not
+
 EstimatedSalary -	Estimated Salary of each Customer
+
 Exited -	Customer left the bank or Not (Target Variable)
 
 
